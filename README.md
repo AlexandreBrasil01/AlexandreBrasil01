@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alexandre Brasil;
+- 👀 I’m interested in Programming, Database, Web Development, Graphic Design, Game Dev;
+- 🌱 I’m currently learning HTML5, CSS3, JavaScript by myself and I study at IfSul Camaquã where I learn about Programming IDE and Database, Network Science and software engineering;
+- 💞️ I’m looking to collaborate on the graphic design and games industry but I do my best to collaborate on everything I could;
